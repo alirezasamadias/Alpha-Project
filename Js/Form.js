@@ -22,4 +22,3 @@ formSubmit.addEventListener('click',()=>{
         });
     }
 });
-// THE END

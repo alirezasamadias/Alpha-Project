@@ -31,4 +31,3 @@ for (const tabItemEl of tabItems) {
         }
     });
 }
-// THE END

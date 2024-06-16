@@ -27,4 +27,3 @@ for (const informNumEl of informNums) {
         }
     });
 }
-// THE END

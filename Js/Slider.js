@@ -41,4 +41,3 @@ const target = (item)=>{
         radios[item].style.backgroundColor = '#fff';
     },0);
 };
-// THE END

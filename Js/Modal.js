@@ -102,4 +102,3 @@ for (const modalChildEl of modalChilds) {
 modalImgEl.addEventListener('click' , ()=>{
     modalImgEl.classList.toggle('full');
 });
-// THE END
