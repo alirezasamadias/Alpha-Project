@@ -1170,7 +1170,6 @@ form {
     width: 100%;
     height: 100%;
     padding: 30px 20px;
-    background: #404040;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1178,11 +1177,9 @@ form {
     row-gap: 25px;
     text-align: center;
     color: #fff;
-    position: relative;
 }
 
 #static-map {
-    display: none;
     width: auto;
     max-width: 100%;
     height: auto;
@@ -1652,4 +1649,3 @@ form {
         min-height: 580px;
     }
 }
-/* THE END */
