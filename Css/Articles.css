@@ -1,0 +1,34 @@
+/* hero */
+.hero {
+    background-image: url(../Images/Articles-Hero.webp);
+}
+
+/* post */
+.post .container {
+    width: min(100%,1070px);
+    padding: 90px 8%;
+}
+
+.post .parent-items {
+    grid-template-columns: repeat(1,1fr) !important;
+    row-gap: 60px;
+}
+
+.post-content {
+    margin-top: 30px;
+    padding: unset;
+    row-gap: 20px;
+}
+
+.post-content .title-md {
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+/* Responsive */
+@media (max-width:600px) {
+    .post-content .title-md {
+        font-size: 22px;
+    }
+}
+/* THE END */

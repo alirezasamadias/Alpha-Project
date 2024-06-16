@@ -1,0 +1,11 @@
+/* hero */
+.hero {
+    background-image: url(../Images/Project-03-Hero.jpg);
+    background-position-y: center;
+}
+
+/* call to action */
+.call-to-action {
+    background-image: url(../Images/Project-03-Call-To-Action.jpg);
+}
+/* THE END */
